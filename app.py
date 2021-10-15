@@ -13,7 +13,7 @@ def my_form_post():
         print(userQ)
         return userQ
     else:
-        return render_template('ask.php')
+        return render_template('ask.html')
     
 
 @app.route('/info')
