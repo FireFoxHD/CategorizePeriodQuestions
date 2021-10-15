@@ -1,2 +1,2 @@
-# CategorizePeriodQuestions
-Export trained model for predicting the general category of period questions.
+# PeriodPrideJa.github.io
+Period Pride Ja website.
